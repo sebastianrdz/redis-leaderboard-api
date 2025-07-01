@@ -4,6 +4,11 @@ A blazing-fast backend API for managing a real-time leaderboard, built with **No
 
 Users can submit scores, view top rankings, and fetch their personal rank — all optimized for speed and simplicity using Redis.
 
+
+https://github.com/user-attachments/assets/27450a13-f4dc-49f7-a29f-5cc6c04804c5
+
+
+
 ---
 
 ## 🔧 Features
