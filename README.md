@@ -64,7 +64,7 @@ docker compose up
 npm start
 ```
 
-## API Endpoints
+## 🧪 API Endpoints
 `POST /api/submit`
 Submit a score for a user.
 
